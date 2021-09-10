@@ -7,7 +7,7 @@
 
 CurseForge Project: https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x  
 GitHub Repo: https://github.com/mullak99s-Faithful/mullak99sFaithful  
-Direct Downloads: https://link.mullak99.co.uk/m99fa 
+Direct Downloads: https://link.mullak99.co.uk/m99fa  
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/  
 
 ## Related Projects
